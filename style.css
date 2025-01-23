@@ -1,0 +1,281 @@
+body {
+    background-color:#C1ACD3; 
+    margin-left: 0em;
+    margin-right: 0em;
+    margin-bottom: 0em;
+    margin-top: 0em;
+}
+
+header img {
+    margin: auto;
+    margin-bottom: 2em;
+}
+nav {
+    background-color:#004A35;
+    display:flex;
+    padding: 0em;
+    justify-content: center;
+}
+nav ul {
+    display: flex;
+    list-style-type: none;
+    padding: 0;
+}
+nav a {
+    font-family: "Josefin Sans", serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+    font-size: x-large;
+    text-align: center;
+    padding: 0.5em;
+    color: white;
+    text-decoration: none;
+}
+
+img {
+    display: block;
+}
+
+
+
+
+
+h1 {
+    font-family: "Josefin Sans", serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+    text-align: center;
+    margin-bottom: 0.5em;
+    margin-top: 0em;
+    color: #004A35;
+
+}
+h2 {
+    font-family: "Josefin Sans", serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+    font-size: xx-large;
+    margin-top: 0em;
+    margin-left: 0.5em;
+    color: #004A35;
+}
+p {
+    font-family: "Josefin Sans", serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+    font-size: large;
+    background-color: #D7CAE2;
+    padding: 1em;
+    margin-left: 1em;
+    margin-right: 1em;
+
+}
+
+
+
+
+
+.outfit {
+    display: flex;
+    margin-left: 1em;
+    margin-right: 1em;
+}
+.outfit img {
+    width: 120px;
+    height: 130px;
+    margin-left: 1em;
+    margin-bottom: 0.25em;
+}
+.outfit h1 {
+    font-size: xx-large;
+    text-align: left;
+    color:#004A35;
+    margin-bottom: 0em;
+    margin-left: 0.5em;
+}
+.outfit p {
+    font-family: "Josefin Sans", serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+    margin-top: 0em;
+    font-size: large;
+    text-align: left;
+    background-color: #C1ACD3;
+    padding: 0em;
+}
+
+
+
+
+
+
+.winkel img {
+    width: 110px;
+    height: 150px;
+    text-align: center;
+    margin-right: 0.25em;
+    margin-left: 0.25em;
+    margin-bottom: 2em;
+}
+.winkel {
+    background-color: #704896;
+    padding: 0.5em;
+    margin-top: 2em;
+    margin-bottom: 2em;
+
+}
+.winkel h2 {
+    font-family: "Josefin Sans", serif;
+    font-optical-sizing:auto;
+    font-weight: 300;
+    font-style: normal;
+    margin-bottom: 0em;
+    color: white;
+    font-size: xx-large;
+    margin-left: 0.5em;
+}
+.winkel div ul {
+    display: flex;
+    overflow-x: scroll;
+    list-style-type: none;
+    padding-left: 0em;
+    justify-content: space-around;
+}
+
+
+
+
+.links {
+    display: flex;
+    justify-content: left;    
+}
+.links img {
+    width: 63px;
+    height: 78px;
+    margin-left: 3em;
+}
+.links p {
+    font-family: "Josefin Sans", serif;
+    font-optical-sizing:auto;
+    font-weight: 300;
+    font-style: normal;
+    font-size: large;
+    margin-left: 0.5em;
+    margin-top: 1em;
+    background-color: transparent;
+}
+.rechts {
+    display: flex;
+    justify-content: right;
+
+}
+.rechts img {
+    width: 73px;
+    height: 100px;
+    justify-content: left;
+    margin-left: 3em;
+}
+.rechts p {
+    font-family: "Josefin Sans", serif;
+    font-optical-sizing:auto;
+    font-weight: 300;
+    font-style: normal;
+    font-size: large;
+    margin-right: 1em;
+    margin-top: 0.5em;
+    margin-left: 3em;
+    background-color: transparent;
+
+}
+.knop h2{
+    text-align: center;
+    margin-top: 1em;
+    margin-bottom: 2em;
+    margin-left: 0em;
+}
+.knop a {
+    font-family: "Josefin Sans", serif;
+    font-optical-sizing:auto;
+    font-weight: 300;
+    font-style: normal;
+    font-size: large;
+    color: white;
+    background-color: #004A35;
+    padding: 1em;
+    border-radius: 1em;
+    text-decoration: none;
+    box-shadow: 5px 5px 7px rgba(0, 0, 0, 0.6);
+}
+
+
+
+
+
+.stappen {
+    display: flex;
+    margin-left: 1em;
+    background-color:#D7CAE2;
+    margin-right: 1em;
+    margin-bottom: 1em;
+    border-radius: 1em;
+}
+.stappen p {
+    font-family: "Josefin Sans", serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+    font-size: x-large;
+    margin-top: 0em;
+    color: black;
+    margin-left: 0em;
+    text-align: left;
+    background-color: transparent;
+}
+.stappen img {
+    width: 70px;
+    height: 90px;
+    margin-left: 0em;
+    margin-right: 0;
+    margin-bottom: 3em;
+    border-radius: 1em;
+}
+
+
+.achtergrond-paars {
+    background-color: #D7CAE2;  
+    margin: 1em; 
+}
+
+.route {
+    display: flex;
+}
+.route img {
+    width: 50px;
+    height: 100px;
+    margin-left: 2em;
+}
+
+
+
+
+
+.donkerpaars {
+    background-color: #704896;
+    padding: 1em;
+    margin-bottom: 0;
+}
+.donkerpaars p {
+    background-color: transparent;
+    color: white;
+    margin-left: 0em;
+    margin-top: 0em;
+}
+.donkerpaars h2 {
+    color: white;
+    margin-bottom: 0.5em;
+}
